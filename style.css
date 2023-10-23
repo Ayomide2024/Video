@@ -1,0 +1,10 @@
+body{
+    overflow: hidden;
+}
+.dark{
+    background-color: #202020;
+}
+button{
+    outline: none;
+    border:none;
+}
